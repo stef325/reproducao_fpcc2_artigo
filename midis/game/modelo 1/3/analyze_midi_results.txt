@@ -1,0 +1,30 @@
+Arquivo: Donkey Kong Country 2 Diddys Kong Quest - Bonus
+Tonalidade: Não detectado
+Tempo (BPM): 120.0
+Ritmo (Signature): 4/4
+
+Arquivo: _Sample 5 (1)
+Tonalidade: Não detectado
+Tempo (BPM): 120.0
+Ritmo (Signature): 4/4
+
+Arquivo: _Sample 4
+Tonalidade: Não detectado
+Tempo (BPM): 120.0
+Ritmo (Signature): 4/4
+
+Arquivo: _Sample 3
+Tonalidade: Não detectado
+Tempo (BPM): 120.0
+Ritmo (Signature): 4/4
+
+Arquivo: _Sample 2
+Tonalidade: Não detectado
+Tempo (BPM): 120.0
+Ritmo (Signature): 4/4
+
+Arquivo: _Sample 1
+Tonalidade: Não detectado
+Tempo (BPM): 120.0
+Ritmo (Signature): 4/4
+

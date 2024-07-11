@@ -1,0 +1,30 @@
+Arquivo: As-Time-Goes-By-(Jazz-Gitaar-Trio)
+Tonalidade: Não detectado
+Tempo (BPM): 82.00082000820007
+Ritmo (Signature): 4/4
+
+Arquivo: _Sample 5 (1)
+Tonalidade: Não detectado
+Tempo (BPM): 120.0
+Ritmo (Signature): 4/4
+
+Arquivo: _Sample 4
+Tonalidade: Não detectado
+Tempo (BPM): 120.0
+Ritmo (Signature): 4/4
+
+Arquivo: _Sample 3
+Tonalidade: Não detectado
+Tempo (BPM): 120.0
+Ritmo (Signature): 4/4
+
+Arquivo: _Sample 2
+Tonalidade: Não detectado
+Tempo (BPM): 120.0
+Ritmo (Signature): 4/4
+
+Arquivo: _Sample 1
+Tonalidade: Não detectado
+Tempo (BPM): 120.0
+Ritmo (Signature): 4/4
+
