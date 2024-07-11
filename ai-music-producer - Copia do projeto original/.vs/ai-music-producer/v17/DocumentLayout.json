@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bruna\\fpcc2teste\\ai-music-producer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bruna\\fpcc2teste\\ai-music-producer\\plugins\\magenta.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:plugins\\magenta.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bruna\\fpcc2teste\\ai-music-producer\\components\\Footer.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\Footer.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bruna\\fpcc2teste\\ai-music-producer\\components\\Logo.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\Logo.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bruna\\fpcc2teste\\ai-music-producer\\components\\SamplePlayer.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\SamplePlayer.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bruna\\fpcc2teste\\ai-music-producer\\components\\TrainingOverlay.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\TrainingOverlay.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bruna\\fpcc2teste\\ai-music-producer\\components\\VuetifyLogo.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\VuetifyLogo.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bruna\\fpcc2teste\\ai-music-producer\\components\\GeneratingOverlay.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\GeneratingOverlay.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "magenta.js",
+              "DocumentMoniker": "C:\\Users\\bruna\\fpcc2teste\\ai-music-producer\\plugins\\magenta.js",
+              "RelativeDocumentMoniker": "plugins\\magenta.js",
+              "ToolTip": "C:\\Users\\bruna\\fpcc2teste\\ai-music-producer\\plugins\\magenta.js",
+              "RelativeToolTip": "plugins\\magenta.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-10T18:36:47.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Footer.vue",
+              "DocumentMoniker": "C:\\Users\\bruna\\fpcc2teste\\ai-music-producer\\components\\Footer.vue",
+              "RelativeDocumentMoniker": "components\\Footer.vue",
+              "ToolTip": "C:\\Users\\bruna\\fpcc2teste\\ai-music-producer\\components\\Footer.vue",
+              "RelativeToolTip": "components\\Footer.vue",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-07-10T00:48:01.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logo.vue",
+              "DocumentMoniker": "C:\\Users\\bruna\\fpcc2teste\\ai-music-producer\\components\\Logo.vue",
+              "RelativeDocumentMoniker": "components\\Logo.vue",
+              "ToolTip": "C:\\Users\\bruna\\fpcc2teste\\ai-music-producer\\components\\Logo.vue",
+              "RelativeToolTip": "components\\Logo.vue",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-07-10T00:47:58.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SamplePlayer.vue",
+              "DocumentMoniker": "C:\\Users\\bruna\\fpcc2teste\\ai-music-producer\\components\\SamplePlayer.vue",
+              "RelativeDocumentMoniker": "components\\SamplePlayer.vue",
+              "ToolTip": "C:\\Users\\bruna\\fpcc2teste\\ai-music-producer\\components\\SamplePlayer.vue",
+              "RelativeToolTip": "components\\SamplePlayer.vue",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-07-10T00:47:52.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TrainingOverlay.vue",
+              "DocumentMoniker": "C:\\Users\\bruna\\fpcc2teste\\ai-music-producer\\components\\TrainingOverlay.vue",
+              "RelativeDocumentMoniker": "components\\TrainingOverlay.vue",
+              "ToolTip": "C:\\Users\\bruna\\fpcc2teste\\ai-music-producer\\components\\TrainingOverlay.vue",
+              "RelativeToolTip": "components\\TrainingOverlay.vue",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-07-10T00:47:44.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VuetifyLogo.vue",
+              "DocumentMoniker": "C:\\Users\\bruna\\fpcc2teste\\ai-music-producer\\components\\VuetifyLogo.vue",
+              "RelativeDocumentMoniker": "components\\VuetifyLogo.vue",
+              "ToolTip": "C:\\Users\\bruna\\fpcc2teste\\ai-music-producer\\components\\VuetifyLogo.vue",
+              "RelativeToolTip": "components\\VuetifyLogo.vue",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-07-10T00:47:41.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GeneratingOverlay.vue",
+              "DocumentMoniker": "C:\\Users\\bruna\\fpcc2teste\\ai-music-producer\\components\\GeneratingOverlay.vue",
+              "RelativeDocumentMoniker": "components\\GeneratingOverlay.vue",
+              "ToolTip": "C:\\Users\\bruna\\fpcc2teste\\ai-music-producer\\components\\GeneratingOverlay.vue",
+              "RelativeToolTip": "components\\GeneratingOverlay.vue",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-07-10T00:47:09.497Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
